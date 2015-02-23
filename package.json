@@ -1,0 +1,21 @@
+	{
+  "name" : "Troop86Website",
+  "description": "The website for Troop 86 (Marlboro, NJ).",
+  "private": true,
+  "version" : "0.0.1",
+  "main" : "index.js",
+
+  "scripts": {
+    "build": "node index.js"
+  },
+
+  "dependencies" : {
+    "metalsmith"            : "*",
+    "metalsmith-jade"       : "*",
+    "metalsmith-less"       : "*",
+    "metalsmith-markdown"   : "*",
+    "metalsmith-navigation" : "*",
+    "metalsmith-templates"  : "*",
+    "handlebars"            : "*"
+  }
+}
