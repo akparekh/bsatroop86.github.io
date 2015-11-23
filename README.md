@@ -19,3 +19,4 @@ Would you like to update the troop site?
   - On that same page, fill out the form at the bottom and hit the [propose change button](https://raw.githubusercontent.com/BSATroop86/Website/master/docs/proposeChange.png)
   - On the next page, hit [create pull request](https://raw.githubusercontent.com/BSATroop86/Website/master/docs/createPullRequest1.png)
   - On the next page, hit [create pull request again](https://raw.githubusercontent.com/BSATroop86/Website/master/docs/createPullRequest2.png)
+4. After your changes are approved by a site admin, they should appear on the site!
