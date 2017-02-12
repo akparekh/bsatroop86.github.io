@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Home",
+        "link": "/"
+    },
+    {
+        "title": "About",
+        "link": "/about.html"
+    },
+    {
+        "title": "Calendar",
+        "link": "/calendar.html"
+    },
+    {
+        "title": "Contact Us",
+        "link": "/contact.html"
+    },
+    {
+        "title": "Eagle Resources",
+        "link": "/eagleResources.html"
+    },
+    {
+        "title": "Eagle Honor Roll",
+        "link": "/eagles.html"
+    },
+    {
+        "title": "Scoutmaster's Minute",
+        "link": "/scoutmastersMinute.html"
+    },
+    {
+        "title": "Summer Camp",
+        "link": "/summerCamp.html"
+    },
+    {
+        "title": "Training",
+        "link": "/training.html"
+    }
+]
