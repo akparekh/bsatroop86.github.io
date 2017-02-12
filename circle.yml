@@ -1,0 +1,9 @@
+machine:
+    ruby:
+        version: 1.9.3-p0-falcon
+
+deployment:
+    production:
+        branch: master
+        commands:
+            - make update_content
