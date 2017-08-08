@@ -10,11 +10,11 @@ nav_groups:
 - [Eagle Scout Application Form](http://www.scouting.org/filestore/pdf/512-728_WB_fillable.pdf)
 - [Eagle Requirement 7](./content/Eagle-Req7.docx)
 - Eagle Recommendation Letters
-  - [From Parent](http://monmouthbsa.org/wp-content/uploads/2014/07/recommendationparents.pdf)
-  - [From Neighbor](http://monmouthbsa.org/wp-content/uploads/2014/07/recommendationneighbor.pdf)
-  - [From Teacher](http://monmouthbsa.org/wp-content/uploads/2014/07/recommendationteacher.pdf)
-  - [From Employer](http://monmouthbsa.org/wp-content/uploads/2014/07/Letter-of-Recommendation-Employer-2011.pdf)
-  - [From Religious Leader](http://monmouthbsa.org/wp-content/uploads/2014/07/recommendationreligious.pdf)
+  - [From Parent](https://www.monmouthbsa.org/files/12559/recommendationparents-pdf)
+  - [From Neighbor](https://www.monmouthbsa.org/files/12558/recommendationneighbor-pdf)
+  - [From Teacher](https://www.monmouthbsa.org/files/12560/recommendationteacher-pdf)
+  - [From Employer](https://www.monmouthbsa.org/files/12562/Letter-of-Recommendation-Employer-2011-pdf)
+  - [From Religious Leader](https://www.monmouthbsa.org/files/12561/recommendationreligious-pdf)
 
 ## <b>[Scholarships](http://www.scouting.org/About/FactSheets/scholarships.aspx)</b>
 
