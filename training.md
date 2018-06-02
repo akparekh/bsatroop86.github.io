@@ -25,4 +25,4 @@ Additional trainings are available both online at [MyScouting](https://my.scouti
 All scouts wishing to serve as Den Chiefs should complete online training immediately at [BSA Training - Youth](http://www.scouting.org/Training/Youth.aspx) and the instructor led course at the next offering. See the list here: [Monmouth Council - Training](https://www.monmouthbsa.org/training-dc).
 
 ### <span class="red">Upon Completion of Courses</span>
-Printed copies of certificates for all required training must accompany adult applications. Electronic copies of all training should be sent to ([training@bsatroop86.org](training@bsatroop86.org)).
+Printed copies of certificates for all required training must accompany adult applications. Electronic copies of all training should be sent to ([training@bsatroop86.org](mailto:training@bsatroop86.org)).
