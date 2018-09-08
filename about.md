@@ -15,5 +15,4 @@ In addition to our regularly scheduled monthly camping trips, Troop 86 participa
 
 ## Press Coverage
 [Marlboro Boy Scout Troop 86 celebrates 70th Anniversary](http://www.centraljersey.com/news/news_transcript/stories/marlboro-boy-scout-troop-celebrates-th-anniversary/article_62651a98-f26e-5446-93c1-8f2198c9a88d.html).
-
 [Brothers from Marlboro Boy Scout Troop 86 attain rank of Eagle](http://www.centraljersey.com/news/news_transcript/stories/brothers-from-marlboro-boy-scout-troop-attain-rank-of-eagle/article_b53a5871-6ed3-5f22-af14-8a8621e94644.html).
