@@ -28,7 +28,18 @@ layout: default
             <h4>Upcoming Events</h4>
             <ul>
                 {% for event in site.data.upcoming %}
-                    <li>{{event["Month"]}} {{event["Date"]}} {{event["Event"]}}</li>
+                    {% if event["Link"] == "None" %}
+                        <li>{{event["Month"]}} {{event["Date"]}} - {{event["Event"]}}</li>
+                    {% else %}
+                            <li>
+                                {{event["Month"]}}
+                                {{" "}}
+                                {{event["Date"]}} 
+                                {{" - "}}
+                                <a href={{event["Link"]}} >{{event["Event"]}}</a>
+                            </li>
+                        
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>
