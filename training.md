@@ -13,7 +13,7 @@ Required for all committee members. Can be taken at [MyScouting](https://my.scou
 
 ### Scoutmaster Position Specific Training
 Required for the Scoutmaster and all Assistant Scoutmasters. 
-Courses can be accessed online from [MyScouting](https://my.scouting.org)
+Courses can be accessed online from [MyScouting](https://my.scouting.org). 
 An instructor led course run by Monmouth Council. Check for the next scheduled course at:  [Monmouth Council - Trainings](https://www.monmouthbsa.org/training-spst).
 
 ### Introduction to Outdoor Leader Skills (IOLS)
