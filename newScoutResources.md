@@ -1,5 +1,5 @@
 ---
-title: New Scout Resources
+title: New Scouts
 template: index.html
 nav_groups:
 - primary
