@@ -4,16 +4,12 @@
         "link": "/"
     },
     {
-        "title": "About",
-        "link": "/about.html"
-    },
-    {
         "title": "Calendar",
         "link": "/calendar.html"
     },
     {
-        "title": "Contact Us",
-        "link": "/contact.html"
+        "title": "New Scouts",
+        "link": "/newScoutResources.html"
     },
     {
         "title": "Eagle Resources",
@@ -36,7 +32,11 @@
         "link": "/training.html"
     },
     {
-        "title": "New Scouts",
-        "link": "/newScoutResources.html"
+        "title": "About",
+        "link": "/about.html"
+    },
+    {
+        "title": "Contact Us",
+        "link": "/contact.html"
     }
 ]
