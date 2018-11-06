@@ -19,3 +19,6 @@ In addition to our regularly scheduled monthly camping trips, Troop 86 participa
 [Celebrating 70 years of Scouting and giving back to the community](https://patch.com/new-jersey/marlboro-coltsneck/boy-scout-america-troop-86-7th-anniversary-celebration)
 
 [Brothers from Marlboro Boy Scout Troop 86 attain rank of Eagle](http://www.centraljersey.com/news/news_transcript/stories/brothers-from-marlboro-boy-scout-troop-attain-rank-of-eagle/article_b53a5871-6ed3-5f22-af14-8a8621e94644.html).
+
+## Monthly NewsLetters
+[November 2018](./content/Newsletter November 2018.pdf)
