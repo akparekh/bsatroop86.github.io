@@ -20,5 +20,5 @@ In addition to our regularly scheduled monthly camping trips, Troop 86 participa
 
 [Brothers from Marlboro Boy Scout Troop 86 attain rank of Eagle](http://www.centraljersey.com/news/news_transcript/stories/brothers-from-marlboro-boy-scout-troop-attain-rank-of-eagle/article_b53a5871-6ed3-5f22-af14-8a8621e94644.html).
 
-## Monthly NewsLetters
+## Monthly Newsletters
 [November 2018](./content/Newsletter November 2018.pdf)
