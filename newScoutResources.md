@@ -12,6 +12,6 @@ We welcome new scouts to BSA Troop 86 of Marlboro. A Scout is always prepared. H
 - [Personal Camping Gear](./content/Personal Camping Gear.docx)
 - [What to Pack](./content/Scout Packing List.docx)
 
-PLEASE COMPLETE FOLLOWING PAPERWORK AND TURN IN AT YOUR FIRST MEETING WITH YOUR DUES CHECK
+PLEASE COMPLETE FOLLOWING PAPERWORK AND TURN IN AT YOUR FIRST MEETING WITH YOUR DUES CHECK PAYABLE TO BSA TROOP 86
 - [Scout Personal Data Collection](./content/Scout Personal Data Collection.docx)
 - [Troop 86 Resource Survey](./content/troop_resource_survey.docx)
