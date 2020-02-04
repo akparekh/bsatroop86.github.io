@@ -14,11 +14,14 @@ Troop 86 has celebrated 97 Eagle Scouts to date.  The Troop has Scouts on Camp S
 In addition to our regularly scheduled monthly camping trips, Troop 86 participates in both National and Council events and activities, such as, Sea Base, Philmont Scout Ranch (in 2014 we sent 6 Scouts and 4 Adults), Youth Leadership Training, National Jamboree, Order of the Arrow (The Scouting Honor Society).  
 
 ## Press Coverage
-[Marlboro Boy Scout Troop 86 celebrates 70th Anniversary](http://www.centraljersey.com/news/news_transcript/stories/marlboro-boy-scout-troop-celebrates-th-anniversary/article_62651a98-f26e-5446-93c1-8f2198c9a88d.html).
+[Marlboro Boy Scout Troop 86 celebrates 70th Anniversary](https://centraljersey.com/2018/06/19/marlboro-boy-scout-troop-celebrates-70th-anniversary/).
 
 [Celebrating 70 years of Scouting and giving back to the community](https://patch.com/new-jersey/marlboro-coltsneck/boy-scout-america-troop-86-7th-anniversary-celebration)
 
-[Brothers from Marlboro Boy Scout Troop 86 attain rank of Eagle](http://www.centraljersey.com/news/news_transcript/stories/brothers-from-marlboro-boy-scout-troop-attain-rank-of-eagle/article_b53a5871-6ed3-5f22-af14-8a8621e94644.html).
+[Brothers from Marlboro Boy Scout Troop 86 attain rank of Eagle](https://centraljersey.com/2018/08/07/brothers-from-marlboro-boy-scout-troop-86-attain-rank-of-eagle/).
 
 ## Monthly Newsletters
 [November 2018](./content/Newsletter November 2018.pdf)
+[March 2019](./content/Newsletter March 2019.pdf)
+[September 2019](./content/Newsletter Sept 2019.pdf)
+[January 2020](./content/Newsletter Jan 2020.pdf)
