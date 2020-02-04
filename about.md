@@ -22,6 +22,9 @@ In addition to our regularly scheduled monthly camping trips, Troop 86 participa
 
 ## Monthly Newsletters
 [November 2018](./content/Newsletter November 2018.pdf)
+
 [March 2019](./content/Newsletter March 2019.pdf)
+
 [September 2019](./content/Newsletter Sept 2019.pdf)
+
 [January 2020](./content/Newsletter Jan 2020.pdf)
