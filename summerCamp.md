@@ -9,6 +9,6 @@ We can’t emphasize enough how important summer camp is for your sons scouting 
 
 - [TMR-Camp Aquehonga](http://www.tenmileriver.org/aq/)
 - [Official BSA Medical](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)
-- [Merit Badge Schedule](https://www.tenmileriver.org/files/5225/2016-AQ-Merit-Badge-Schedule)
+- [Merit Badge Schedule](https://tenmileriver.org/wp-content/uploads/sites/4/2020/02/2020-aquehonga-merit-badge-schedule.pdf)
 - [What to Pack](./content/Scout Packing List.docx)
 - [Canoe Release](./content/landers_release.pdf)
