@@ -16,6 +16,6 @@ nav_groups:
   - [From Employer](https://www.monmouthbsa.org/files/12562/Letter-of-Recommendation-Employer-2011-pdf)
   - [From Religious Leader](https://www.monmouthbsa.org/files/12561/recommendationreligious-pdf)
 
-## <b>[Scholarships](http://www.nesa.org/site/c.9oIFJMPsGgIWF/b.9535031/k.8FA8/Scholarships.htm)</b>
+## <b>[Scholarships](https://nesa.org/for-eagle-scouts/scholarships/)</b>
 
 ## <b>[NESA](http://www.nesa.org/)</b>
