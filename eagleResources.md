@@ -7,6 +7,7 @@ nav_groups:
 
 ## <b>Life to Eagle</b>
 [Steps to Reaching the Eagle Scout Rank](./content/Steps to Reaching the Eagle Scout Rank 2019.docx)
+
 [Sample Work Hours Log for Eagle Service Project ](./content/Russ eagle scout work logs.pdf)
 
 - [Downloadable Electronic Eagle Service Project Workbook](http://www.scouting.org/scoutsource/BoyScouts/AdvancementandAwards/EagleWorkbookProcedures.aspx)
